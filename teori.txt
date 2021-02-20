@@ -1,0 +1,8 @@
+1. Innkapsling gjør at det ikke går an å bruke metoder/variabler som er definert inne i en klasse utenfor klassen. Dette gjør
+man ved konvensjoner blant annet "__" (dobbelt understrek) foran instansmetoder/instans-variabler. Dette er nyttig for å holde styr på objektene. 
+
+2. Grensesnittet til en klasse er alle metoder-navn (f.eks def MetodeNavn()) man har tilgang til av denne klassen. 
+Dette skiller seg fra implementasjonen ved at selve implementasjonen er innholdet i metodene.
+
+3. En instansmetode er metode som finnes i en klasse. Disse metodene kan tas i bruk etter deklarasjon av et objekt. 
+Forskjellen er at instansmetoder kan bare kalles på av objektene av klassen, mens vanlige prosedyrer/funksjoner kan kalles på når som helst. 

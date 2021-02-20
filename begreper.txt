@@ -1,0 +1,7 @@
+A: Linje 1
+B: Linje 19/ Linje 20
+C: Linje 3:5
+D: Linje 7:9/ Linje 11:13/ Linje 15:16
+E: Linje 2:5
+F: Linje 21/ Linje 22/ Linje 25:28/ Linje 31:34
+G: Linje 2/ Linje 7/ Linje 11/ Linje 15
